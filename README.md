@@ -10,18 +10,23 @@ Um gerador de senhas seguro e personalizável feito em linguagem C, executado vi
 
 ## ✨ Funcionalidades
 
-✅ Escolha o tamanho da senha  
+✅ Escolha o tamanho da senha
+
 ✅ Opções para incluir:
+
 - Letras minúsculas
 - Letras maiúsculas
 - Números
-- Caracteres especiais  
+- Caracteres especiais
+   
 ✅ Classificação da senha:
 - Fraca
 - Segura
 - Muito segura
-- Extremamente segura  
-✅ Interface amigável via terminal (CLI)  
+- Extremamente segura
+  
+✅ Interface amigável via terminal (CLI)
+  
 ✅ Código simples e didático
 
 ---
